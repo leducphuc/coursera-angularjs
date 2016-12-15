@@ -1,0 +1,16 @@
+#normal {
+  background-color: gray;
+}
+
+#success {
+  background: green;
+}
+
+#danger {
+  background: red;
+}
+
+#too-much {
+  background: orange;
+}
+
